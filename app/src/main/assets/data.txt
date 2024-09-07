@@ -1,0 +1,9 @@
+Bulbasaur,grass,65,65,bulbasaur
+Ivysaur,grass,80,80,ivysaur
+Venusaur,grass,122,120,venusaur
+Charmander,fire,60,50,charmander
+Charmeleon,fire,80,65,charmeleon
+Charizard,fire,159,115,charizard
+Squirtle,water,50,64,squirtle
+Wartortle,water,65,80,wartortle
+Blastoise,water,135,115,blastoise
