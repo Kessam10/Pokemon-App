@@ -101,7 +101,6 @@ fun PokemonCard(item: CardItems) {
             // Box for Image at the end
             Box(
                 modifier = Modifier
-                    .padding(start = 60.dp)
                     .constrainAs(image) {
                         end.linkTo(parent.end)
                         top.linkTo(parent.top)
